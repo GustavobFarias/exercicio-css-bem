@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "init": "^0.1.2"
+  },
+  "name": "exercicio-css",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "sass": "^1.78.0"
+  },
+  "scripts": {
+    "sass": "sass ./src/main.scss ./build/main.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
